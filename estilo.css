@@ -1,0 +1,33 @@
+body{
+    background: Linear-gradient(to botton, #ffe0ec, #fcd2f0);
+    font-family: 'trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 40px;
+    color: #5c2a4a;
+}
+
+.container{
+    background-color: #fff0f7;
+    border: 2px dashed #ff7eb9;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(255, 120, 185, 0.4);
+    display: inline-block;
+}
+
+h1{
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(255, 120, 185, 0.6);
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 1,2em;
+    font-style: italic;
+}
